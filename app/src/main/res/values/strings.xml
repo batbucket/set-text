@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sample Application</string>
+    <string name="button_text">Send</string>
+    <string name="textbox_text">Hello world!</string>
+    <string name="plaintext_text_hint">Something goes here...</string>
+</resources>
